@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Thomas Alex Mathew
+description:    "Anthing Under the Sun"
+baseurl:        "/"
+url:            "https://mothas.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Thomas Alex Mathew
+  url:          https://www.thomasalexmathew.com
+  email:        mothas.thomas@gmail.com
 
 # Build settings
 markdown:       kramdown
