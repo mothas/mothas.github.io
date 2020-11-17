@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The day WTF crashed our server"
+title: "The day WTF crashed our servers"
 author: "Thomas Alex Mathew"
 ---
 

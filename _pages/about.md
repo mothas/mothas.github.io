@@ -5,4 +5,4 @@ author: "Thomas Alex Mathew"
 permalink: /about/
 ---
 
-This is a place where everything under the sun will be written. For the uninterested, feel free to leave. Otherwise, heave a thousand sighs.
+I am [Thomas Alex Mathew](https://www.linkedin.com/in/thomasalexmathew/){:target="_blank"}, Data Engineer, who's primarily interested in tech, [photography](https://www.instagram.com/mothas_/){:target="_blank"}, music, and science.
