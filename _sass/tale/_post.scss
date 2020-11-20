@@ -38,6 +38,7 @@
 
   img {
     margin: 0 auto 0.5rem;
+    width: 300px;
   }
 
   img + em {
@@ -60,4 +61,21 @@
     padding: 0;
     margin: 0;
   }
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #000000;
+}
+
+th{
+    border:2px solid #000000;
+    text-align: left;
+    padding: 6px;
+}
+
+td{
+    border:1px solid #000000;
+    padding: 6px;
 }
